@@ -39,3 +39,44 @@ c:\users\bruno\documents\visual studio 2015\Projects\crud_api\crud_api\bin\Syste
 c:\users\bruno\documents\visual studio 2015\Projects\crud_api\crud_api\obj\Debug\crud_api.csprojResolveAssemblyReference.cache
 c:\users\bruno\documents\visual studio 2015\Projects\crud_api\crud_api\obj\Debug\crud_api.dll
 c:\users\bruno\documents\visual studio 2015\Projects\crud_api\crud_api\obj\Debug\crud_api.pdb
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\ApplicationInsights.config
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\roslyn\csc.exe
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\roslyn\vbc.exe
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\crud_api.dll.config
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\crud_api.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\crud_api.pdb
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\Microsoft.AI.Web.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\Newtonsoft.Json.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\System.Net.Http.Formatting.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\System.Web.Http.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\System.Web.Http.WebHost.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\Microsoft.AI.Web.xml
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\Newtonsoft.Json.xml
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\System.Net.Http.Formatting.xml
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\System.Web.Http.xml
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\bin\System.Web.Http.WebHost.xml
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\obj\Debug\crud_api.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\obj\Debug\crud_api.dll
+C:\Users\Bruno\Projetos_Kely\crud_api\crud_api\obj\Debug\crud_api.pdb
